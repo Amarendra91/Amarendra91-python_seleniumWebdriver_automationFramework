@@ -1,6 +1,6 @@
 .git
-.log
-.xlsx
+logfile.log
+UserData.xlsx
 .idea
 .pytest_cache
 assets/

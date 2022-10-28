@@ -1,0 +1,6 @@
+.git
+.log
+.xlsx
+.idea
+.pytest_cache
+assets/

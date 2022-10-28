@@ -1,0 +1,5 @@
+2022-10-28 20:01:53,157: INFO : test_formSubmission : Name is :John Doe
+2022-10-28 20:01:53,216: INFO : test_formSubmission : Email is :male@hotmail.com
+2022-10-28 20:01:53,264: INFO : test_formSubmission : Password is :12345
+2022-10-28 20:01:53,330: INFO : test_formSubmission : Person is :Male
+2022-10-28 20:01:53,414: INFO : test_formSubmission : John Doe`s  D.O.B is 31-12-1999
